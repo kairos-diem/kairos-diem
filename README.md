@@ -3,6 +3,7 @@
 <h2>👨‍💻 Blogs, Notes and Projects</h2>
 
   <h3> Notes</h3>  
+  
   - <b>Technical Terms</b>
     - [Defenition and Examples for various terms that I came across my cyber-security journey.](https://github.com/kairos-diem/Technical_Terms)
 
