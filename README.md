@@ -1,9 +1,10 @@
 <h1>Hi, I'm Kristo! <br/><a href="https://github.com/kairos-diem">Cyber Security Enthusiast</a>, <a href="https://www.linkedin.com/in/kristo-tony/">
 
-<h2>👨‍💻 Blogs, Notes and Prjects</h2>
+<h2>👨‍💻 Blogs, Notes and Projects</h2>
 
-- <b>Sample Heading</b>
-  - [Sample Description](Sample URL)
+  <h3> Notes</h3>  
+  - <b>Technical Terms</b>
+    - [Defenition and Examples for various terms that I came across my cyber-security journey.](https://github.com/kairos-diem/Technical_Terms)
 
 
 
