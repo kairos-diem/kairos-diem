@@ -1,4 +1,6 @@
-<h1>Hi, I'm Kristo! <br/> <a href="https://www.linkedin.com/in/kristo-tony/">Cyber Security Enthusiast</a>
+<h1>Hi, I'm Kristo! <br/> <a href="https://www.linkedin.com/in/kristo-tony/">Cyber Security Enthusiast</a> </h1>
+
+- <b> Disclaimer: This is just reccently started and still in development and doesn't reflect all my work. </b>
 
 <h2>👨‍💻 Blogs, Notes and Projects</h2>
   
