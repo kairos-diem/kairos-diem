@@ -4,17 +4,22 @@
 
 <h2>👨‍💻 Blogs, Notes and Projects</h2>
   
-   <h3> GRC </h3>  
+   <h3>🛡️GRC </h3>  
   
   - <b>CIS_Top_18_Controls</b>
     - [Basic writeup on CIS top 18 controls and questions for adapting them to your organisation.](https://github.com/kairos-diem/GRC/blob/main/CIS_Top_18.md)
   - <b>ECR Security Flaw Awareness Document</b>
     - [Basic writeup on ECR security flaw with mitigations for an organization.](https://github.com/kairos-diem/GRC/blob/main/ECR%20Security%20Flaw%20Awareness%20Document.md)
 
-  <h3> Notes </h3>  
+  <h3>📃Notes </h3>  
   
   - <b>Technical Terms</b>
     - [Defenition and Examples for various terms that I came across my cyber-security journey.](https://github.com/kairos-diem/Technical_Terms)
+  
+  <h3>🔓 Red Team </h3>
+  
+- <b>DVWA</b>
+    - [Sample Security Testing on DVWA with some of the few use cases, inspired by the PWST course by Micheal Taggart and Report format from TCM security.](https://github.com/kairos-diem/Red-Team/tree/main/DVWA)
 
 
 
